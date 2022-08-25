@@ -1,0 +1,48 @@
+body {
+    background-color: #F7ECDE;
+}
+
+/************************ Main Page ************************/
+.main-title {
+    text-align: center;
+    color: #54BAB9;
+}
+
+.main-title2 {
+    text-align: center;
+    color: #319DA0;
+}
+
+.top-links {
+    text-align: center;
+    list-style-type: none;
+}
+
+.main-page {
+    text-align: center;
+}
+
+.main-list {
+    text-align: center;
+    list-style-position: inside;
+}
+
+/************************ Product Page ************************/
+
+.product-title {
+    text-align: center;
+    color: #319DA0;
+}
+
+.product-list {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+/****************************  About Us **************************/
+.about-us-title {
+    text-align: center;
+    color: #319DA0;
+
+}
