@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+    width: 96%;
+}
+
+.header a {
+    font-size: 13px;
+    text-decoration: inherit;
+    color: #000;
+    opacity: 0.75;
+}
+
+.header-left {
+    width: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.sign-in {
+    color: #fff;
+    cursor: default;
+    text-decoration: none;
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+}
+
+.content {
+    text-align: center;
+    margin: 100px;
+}
+
+.search-area {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid lightgray;
+    width: 100%;
+    height: 45px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    padding: 0 10px;
+    opacity: 0.45;
+}
+
+.search-input {
+    flex-grow: 1;
+    height: 30px;
+    width: 450px;
+    border: none;
+}
+
+.search-icon {
+    display: flex;
+    padding-right: 13px;
+    margin-top: -5px;
+    height: 15px;
+    width: 15px;
+}
+
+.btn{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-size: 14px;
+    padding: 10px 15px;
+    margin: 0 4px;
+}
+
+.footer {
+    text-align: center;
+    margin: 20;
+    padding: 20;
+    float: left;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 15px;
+    background: #f2f2f2;
+    display: flex; 
+}
+
+.navfooter-left {
+    float: left;
+    display: block;
+    padding: 15px;
+    text-align: left;
+    color: #70757a;
+    overflow: hidden;
+    text-decoration: none;
+    font-size: 14px;
+    margin: left 5px;
+    font-family: arial, sans-serif;
+}
+
+.navfooter-right {
+    float: right;
+    display: block;
+    padding: 15px;
+    text-align: right;
+    color: #70757a;
+    overflow: hidden;
+    text-decoration: none;
+    font-size: 14px;
+    margin: left 5px;
+    font-family: arial, sans-serif;
+}
