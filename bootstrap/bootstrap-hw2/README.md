@@ -4,7 +4,7 @@
 ## Screenshot
 
 - Instagram Clone 
-![Uygulama Ekran Görüntüsü](img/insta-foto1.png)
+![Uygulama Ekran Görüntüsü]()
 
 ## [Linkedln](https://www.linkedin.com/in/abdullahkskn/)
 ## [Patika](https://app.patika.dev/abdubey)
