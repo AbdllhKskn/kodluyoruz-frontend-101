@@ -1,7 +1,7 @@
 
 # Medium Clone Html/Css/Bootstrap/Javscript
 
-!! Fontaxesome6 dosyasını kendiniz projenize ekleyiniz !!
+!! Fontawesome6 dosyasını kendiniz projenize ekleyiniz !!
 
 ## Screenshots
 
